@@ -1,0 +1,8 @@
+body{
+  background-image:url('italy.jpg');
+  background-repeat:no-repeat;
+  background-size: cover;
+}
+
+  .row1 {
+    margin-top: 55px;
